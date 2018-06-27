@@ -27,7 +27,6 @@ Nevertheless, do not hesitate to use technologies you are the most familiar with
 3. Make sure that post with id 40 contains the following comment:
 
 ```
-id: 199
 name: pariatur aspernatur nam atque quis
 email: Cooper_Boehm@damian.biz
 body: veniam eos ab voluptatem in fugiat ipsam quis\nofficiis non qui\nquia ut id voluptates et a molestiae commodi quam\ndolorem enim soluta impedit autem nulla
